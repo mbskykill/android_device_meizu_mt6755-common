@@ -15,7 +15,7 @@
 #
 
 # Device path
-LOCAL_PATH := device/umi/mt6755-common
+LOCAL_PATH := device/meizu/mt6755-common
 
 # Common board elements
 include $(LOCAL_PATH)/PlatformConfig.mk

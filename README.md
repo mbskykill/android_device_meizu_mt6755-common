@@ -1,4 +1,4 @@
-UMI's MT6755 common - CyanogenMod 13.0/AOSP
+Meizu M3note's MT6755 common - CyanogenMod 13.0/AOSP
 ==============
 
 This branch is device for building of the CyanogenMod 13.0 and Android Marshmallow 6.X AOSP ROMs.
@@ -16,7 +16,7 @@ Component Type | Details
 Process | 28nm
 CPU     | 8x Cortex-A53, up to 2.0GHz
 GPU     | Mali-T860 MP2 at 700 MHz
-Usually Shipped Android Version | 6.0
+Usually Shipped Android Version | 5.1
 ---
 
 ### Thanks to:
@@ -35,6 +35,4 @@ Usually Shipped Android Version | 6.0
  * Flounderist
  * Moyster
  * AOUP team
-
-### How to build:
-Infos [here](https://github.com/AOUP-AndroidOpenUmiProject/local_manifests/tree/cm-13.0)
+ * joe2k01
